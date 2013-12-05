@@ -5,7 +5,7 @@ Acoustical line array modeling and comparison with alternative point sources.
 
 This is a project created several years ago to aid in research work into line arrays and their use at St. Marks Cathedral, in Seattle Washington. The documentation and annotation is pretty sparse as I haven't had time to return to this project for the purpose of fixing up the code. I'll add a few comments for now and hope to find time to do more later.
 
-#####This program uses MATHEMATICA 7+
+##### This program requires MATHEMATICA 7+
 
 ###### This program was written for a particular purpose, however I did my best to make it a usable tool to learn how line arrays work. There are likely several optimizations that should be made, however at this point in time I am unable to make them.
 
