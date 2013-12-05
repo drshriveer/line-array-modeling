@@ -15,7 +15,7 @@ After evaluating (shift+enter in each block) the notebook a GUI you can work wit
 
 1. Upon first viewing the program you should notice blue and red blobs. These appear this way due to the frequency being tested. I highly suggest testing it above 250Hz to see more tangible results. The calculation is a little muddy for frequencies. 
 2. To update any changes of values on the page, please click one of the refresh 'buttons':
-![refresh button](refresh.jpg)
+![refresh button](refresh-button.jpg)
 3. Steering Angles are in radians fun examples are π/20, π/17, π/14, 
 4. The top part of the application has many extra options but they <i> should </i>  pretty self explanatory.  If not don’t hesitate to contact me at gavin.shirver@gmail.com
 
