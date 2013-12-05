@@ -7,7 +7,7 @@ This is a project created several years ago to aid in research work into line ar
 
 ##### This program requires MATHEMATICA 7+
 
-###### This program was written for a particular purpose, however I did my best to make it a usable tool to learn how line arrays work. There are likely several optimizations that should be made, however at this point in time I am unable to make them.
+###### NOTE: This program was written for a particular purpose, however I did my best to make it a usable tool to learn how line arrays work. There are likely several optimizations that should be made, however at this point in time I am unable to make them.
 
 Usage
 ---------
