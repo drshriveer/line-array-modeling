@@ -19,7 +19,7 @@ After evaluating (shift+enter in each block) the notebook a GUI you can work wit
 
 Questions & Comments
 -------------
-I am MORE than happy to help you decipher the code or what’s going on. I just don’t have the time to complete this read me right now, or take another pass at the code to improve it. If you are interested in any of this or any of my research please don’t hesitate to contact me at gavin.shriver@gmail.com.
+I am MORE than happy to help you decipher the code or what’s going on. I just don’t have the time to complete this read me right now, or take another pass at the code to improve it. Additionally, I have several variations of this file for anyone who may be interested. If you are interested in any of this or any of my research please don’t hesitate to contact me at [gavin.shriver@gmail.com](mailto:gavin.shriver@gmail.com) .
 
 Licence
 -------------
