@@ -23,7 +23,7 @@ Questions & Comments
 -------------
 I am MORE than happy to help you decipher the code or what’s going on. I just don’t have the time to complete this read me right now, or take another pass at the code to improve it. Additionally, I have several variations of this file for anyone who may be interested. If you are interested in any of this or any of my research please don’t hesitate to contact me at [gavin.shriver@gmail.com](mailto:gavin.shriver@gmail.com) .
 
-Licence
+License
 -------------
 © Gavin Shriver. CC BY-SA.   
 ( You can find the full license [here](http://creativecommons.org/licenses/by-sa/4.0/legalcode) )
